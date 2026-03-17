@@ -4,7 +4,7 @@
   # Muhammad Mudasser Afzal 👋 
   ### AI Engineer | Machine Learning Engineer | NLP Enthusiast
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+enterprise+RAG+pipelines;Bridging+Knowledge+Graphs+%2B+Neural+Networks;Real-time+AI+control+systems;9%2B+years+shipping+production+code" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+enterprise+RAG+pipelines;Bridging+Knowledge+Graphs+%2B+Neural+Networks;Real-time+AI+control+systems;5%2B+years+shipping+production+code" />
 
   <br/>
   
