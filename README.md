@@ -1,5 +1,18 @@
-# Hi, I'm Muhammad Mudasser Afzal 👋  
-### AI Engineer | Machine Learning Engineer | NLP & OCR Enthusiast
+
+<div align="center">
+  
+  # Muhammad Mudasser Afzal 👋 
+  ### AI Engineer | Machine Learning Engineer | NLP Enthusiast
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=667EEA&center=true&vCenter=true&width=600&lines=Building+enterprise+RAG+pipelines;Bridging+Knowledge+Graphs+%2B+Neural+Networks;Real-time+AI+control+systems;9%2B+years+shipping+production+code" />
+
+  <br/>
+  
+  [![Email](https://img.shields.io/badge/📧_mudasserch1@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mudasserch1@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mudasser-afzal/)
+  [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-FF4088?style=flat-square&logoColor=white)](https://mudasserafzal.github.io)
+
+</div>
 
 I build **real-world AI systems** that turn messy data into usable products — from **RAG applications** and **document OCR pipelines** to **recommendation engines**, **knowledge graphs**, and **classical/deep learning models built from scratch**.
 
