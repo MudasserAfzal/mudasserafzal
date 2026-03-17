@@ -55,25 +55,6 @@ I’m especially interested in building systems where **language, documents, sea
 
 ---
 
-## 🌟 Selected Work
-
-### 🔹 Neural Networks from Scratch
-Built neural networks using only **NumPy**, including single perceptron, single hidden layer, and multi-hidden-layer models, with a web interface and REST API for inference. This is a strong signal of first-principles ML understanding. :contentReference[oaicite:1]{index=1}
-
-### 🔹 Brand Recommendation Platform
-Built an e-commerce recommendation platform combining **collaborative filtering (SVD)** and **content-based similarity (TF-IDF)** to generate personalized product recommendations. :contentReference[oaicite:2]{index=2}
-
-### 🔹 Punctuation Correction using BERT
-Worked on punctuation restoration using **BERT**, with trained models and preprocessing assets for experimentation. :contentReference[oaicite:3]{index=3}
-
-### 🔹 Arabic Text Classification
-Built an Arabic text classification project on scraped newspaper data, showing practical multilingual NLP experience. :contentReference[oaicite:4]{index=4}
-
-### 🔹 Recommender Systems Exploration
-Worked on graph-based and neural-network-based recommenders, reflecting strong interest in personalized ranking and retrieval systems. :contentReference[oaicite:5]{index=5}
-
----
-
 ## 🔬 Current Focus
 
 Right now, I’m focused on:
@@ -110,6 +91,7 @@ I’m excited by opportunities where I can contribute to:
 
 - GitHub: [github.com/mudasserafzal](https://github.com/mudasserafzal)
 - Website: [mudasserafzal.github.io](https://mudasserafzal.github.io)
+- Linkedin: [https://www.linkedin.com/in/mudasser-afzal](https://www.linkedin.com/in/mudasser-afzal/)
 
 ---
 
